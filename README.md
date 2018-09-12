@@ -12,4 +12,4 @@
   - [gantt preventivo](progettazione/gantt_preventivo.pdf) 
   
  ## Documentazione
-  - [documentazione](documentazione/GestioneViaggi_documentazione.pdf) 
+  - [documentazione](documentazione/GestioneViaggi_Documentazione.pdf) 
