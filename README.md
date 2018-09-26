@@ -9,6 +9,7 @@
   - [diario 12.09.2017](diari/2018_09_12_GestioneViaggi_LucasPrevitali.pdf)
   - [diario 24.09.2017](diari/2018_09_24_GestioneViaggi_LucasPrevitali.pdf)
   - [diario 25.09.2017](diari/2018_09_25_GestioneViaggi_LucasPrevitali.pdf)
+  - [diario 26.09.2017](diari/2018_09_26_GestioneViaggi_LucasPrevitali.pdf)
   
   ## Gantt
   - [gantt preventivo](progettazione/gantt_preventivo.pdf) 
