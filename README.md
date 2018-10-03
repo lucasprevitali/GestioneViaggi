@@ -10,6 +10,9 @@
   - [diario 24.09.2017](diari/2018_09_24_GestioneViaggi_LucasPrevitali.pdf)
   - [diario 25.09.2017](diari/2018_09_25_GestioneViaggi_LucasPrevitali.pdf)
   - [diario 26.09.2017](diari/2018_09_26_GestioneViaggi_LucasPrevitali.pdf)
+  - [diario 01.10.2017](diari/2018_10_01_GestioneViaggi_LucasPrevitali.pdf)
+  - [diario 02.10.2017](diari/2018_10_02_GestioneViaggi_LucasPrevitali.pdf)
+  - [diario 03.10.2017](diari/2018_10_03_GestioneViaggi_LucasPrevitali.pdf)
   
   ## Gantt
   - [gantt preventivo](progettazione/gantt_preventivo.pdf) 
@@ -20,3 +23,5 @@
   
   ## schema ER
   - [schema ER](progettazione/ER.PNG)
+  - [schema ER - versione 2](progettazione/v2.PNG)
+  
