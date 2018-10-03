@@ -23,5 +23,5 @@
   
   ## schema ER
   - [schema ER](progettazione/ER.PNG)
-  - [schema ER - versione 2](progettazione/v2.PNG)
+  - [schema ER - versione 2](progettazione/ERv2.PNG)
   
