@@ -17,6 +17,10 @@
   - [diario 14.10.2018](diari/2018_10_14_GestioneViaggi_LucasPrevitali.pdf)
   - [diario 15.10.2018](diari/2018_10_15_GestioneViaggi_LucasPrevitali.pdf)
   - [diario 16.10.2018](diari/2018_10_16_GestioneViaggi_LucasPrevitali.pdf)
+  - [diario 17.10.2018](diari/2018_10_17_GestioneViaggi_LucasPrevitali.pdf)
+  - [diario 22.10.2018](diari/2018_10_22_GestioneViaggi_LucasPrevitali.pdf)
+  - [diario 23.10.2018](diari/2018_10_23_GestioneViaggi_LucasPrevitali.pdf)
+  - [diario 24.10.2018](diari/2018_10_24_GestioneViaggi_LucasPrevitali.pdf)
   
   ## Gantt
   - [gantt preventivo](progettazione/gantt_preventivo.pdf) 
